@@ -12,6 +12,8 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 
+title = "David Iwata"
+
 replyByEmail = false
 
 # mainSections = ["section1", "section2"]
@@ -21,7 +23,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
+defaultBackgroundImage = "dad_at_desk.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
@@ -32,7 +34,7 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed-gradient" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -42,8 +44,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  # homepageImage = "dad_at_desk.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false

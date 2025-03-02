@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "David Iwata"
 
 [params]
   displayName = "EN"
@@ -11,20 +11,20 @@ title = "Blowfish"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
+ [params.author]
+   name = "David Iwata"
+   email = "theoldmanandthewolf@gmail.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+   headline = "Ex-con | Ex-pro surfer | Author | Dad & Grandpa"
+   bio = "Always striving for a better tomorrow."
+   links = [
+     { email = "mailto:theoldmanandthewolf@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
-#     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+     { amazon = "https://a.co/d/j1ZJTWB" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
 #     { bluesky = "https://bsky.app/profile/username" },
@@ -32,7 +32,7 @@ title = "Blowfish"
 #     { dev = "https://dev.to/username" },
 #     { discord = "https://discord.gg/invitecode" },
 #     { dribbble = "https://dribbble.com/username" },
-#     { facebook = "https://facebook.com/username" },
+     { facebook = "https://www.facebook.com/authordavidiwata" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
 #     { github = "https://github.com/username" },
@@ -61,7 +61,7 @@ title = "Blowfish"
 #     { steam = "https://steamcommunity.com/profiles/userid" },
 #     { telegram = "https://t.me/username" },
 #     { threads = "https://www.threads.net/@username" },
-#     { tiktok = "https://tiktok.com/@username" },
+     { tiktok = "https://www.tiktok.com/@authordavidiwata" },
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
 #     { twitter = "https://twitter.com/username" },
@@ -70,4 +70,4 @@ title = "Blowfish"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+  ]

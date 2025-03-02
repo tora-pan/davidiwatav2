@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Iwata</title>
+    <link>https://www.davidiwata.com/</link>
+    <description>Recent content on David Iwata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>theoldmanandthewolf@gmail.com (David Iwata)</managingEditor>
+    <webMaster>theoldmanandthewolf@gmail.com (David Iwata)</webMaster>
+    <copyright>© 2025 David Iwata</copyright>
+    <atom:link href="https://www.davidiwata.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://www.davidiwata.com/books/sonomuras-treasure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>theoldmanandthewolf@gmail.com (David Iwata)</author>
+      <guid>https://www.davidiwata.com/books/sonomuras-treasure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidiwata.com/books/the-old-man-and-the-wolf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>theoldmanandthewolf@gmail.com (David Iwata)</author>
+      <guid>https://www.davidiwata.com/books/the-old-man-and-the-wolf/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
